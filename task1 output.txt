@@ -1,0 +1,12 @@
+Hello, World!
+<class 'int'>
+<class 'str'>
+<class 'float'>
+HELLO
+5
+cello
+10
+10.765
+2
+olleh
+not a palindrome
